@@ -32,5 +32,3 @@ The dataset contains `[Insert Number]` records and includes features such as:
 * `Loan_Term`: Duration of the loan in months.
 * `Default_Status`: Target variable indicating if the loan defaulted (1) or not (0).
 
-## Installation and Usage
-1. **Clone the repository:**
